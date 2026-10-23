@@ -1,0 +1,9 @@
+/build/
+/.deps/
+/generated/
+/release/
+/third_party/JUCE/
+__pycache__/
+
+/demo.wav
+/preview*.png

@@ -1,3 +1,5 @@
+> **Windows app and VST3:** the modified Pulse Foundry desktop instrument is in [desktop/](desktop/README.md). See its build instructions, licence notes and validation record. The firmware build below is retained.
+
 # LXR V2 firmware (desktop, STM32F765VG)
 
 Firmware for the LXR V2 desktop drum machine: an STM32F765 (Cortex-M7, 216 MHz) running the
